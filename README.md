@@ -33,4 +33,5 @@ In this project, I analyzed a dataset that includes information on various onlin
 
 This comprehensive dataset provides valuable insights into the online sales landscape, allowing for an in-depth analysis of performance drivers and trends.
 
-![Online Stores Picture]([path/to/image](https://thefintechtimes.com/wp-content/uploads/2021/04/online_shopping_addiction-scaled-1-e1619101842432.jpeg))
+![Online Stores Picture](https://thefintechtimes.com/wp-content/uploads/2021/04/online_shopping_addiction-scaled-1-e1619101842432.jpeg)
+
